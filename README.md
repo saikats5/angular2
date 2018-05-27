@@ -23,3 +23,6 @@ class Car{
     }
 }
 mycar:Car = new Car(70);
+
+ng generate component home
+directives is deprecated from RC5
