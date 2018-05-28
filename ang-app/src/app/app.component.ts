@@ -15,4 +15,5 @@ import { HomeComponent } from './home/index';
 
 export class AppComponent {
   title = 'app works!';
+  customProp = "Custom Data";
 }
